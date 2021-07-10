@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jobayer Hosen
 - 👀 I’m interested in Front-End Web Development.
-- 🌱 I’m currently learning Advanced front end tools.
+- 🌱 I’m currently learning Advanced front end Technologies.
 
 
 <!---
